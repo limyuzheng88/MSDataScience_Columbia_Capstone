@@ -15,8 +15,8 @@ We examine their performance against baseline TradML models—Logistic Regressio
 
 ## Team Structure
 
-1. Varun Agarwal, va2515 (Team Lead)
-2. Yu Zheng Lim, yl5451
+1. Yu Zheng Lim, yl5451
+2. Varun Agarwal, va2515
 3. Atharva Kulkarni, aak2226
 4. Nicolas Cogorna, nac2216
 5. Minh Dang, nd2802
