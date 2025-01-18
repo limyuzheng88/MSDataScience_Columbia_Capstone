@@ -5,8 +5,11 @@
 ## Project Overview
 Financial institutions, like our industry partner TD Bank, are increasingly harnessing data science to enhance customer service, manage risks, and optimize operational efficiency. A major challenge lies in understanding and predicting customer behaviors and characteristics. This project aims to leverage a tabular foundational model (TabFM) or a Large Tabular Model (LTM) for bank customers by using a publicly available Kaggle dataset, to predict if a customer will get approved for a credit product.
 
-Currently, this can be achieved by traditional models like logistic regression and decision trees which have been supplemented by advanced techniques such as gradient boosting and deep learning. However, they often require extensive retraining for new tasks (4-8 months for TD Bank). On the other hand, GTL leverages zero-shot and in-context learning, enabling it to adapt to new tasks with minimal retraining, thus improving model efficiency and effectiveness.
-Unlike traditional approaches that require preprocessing steps such as feature engineering, imputation, and retraining, Generative Tabular Learning (GTL) models harness their pretrained architectures to achieve competitive results on tabular data tasks. We examine their performance against baseline TradML models—Logistic Regression, Decision Trees, Random Forests, and XGBoost—under similar constraints of limited data and features to ensure a fair evaluation.
+Currently, this can be achieved by traditional models like logistic regression and decision trees which have been supplemented by advanced techniques such as gradient boosting and deep learning. However, they often require extensive retraining for new tasks (4-8 months for TD Bank). 
+
+On the other hand, GTL leverages zero-shot and in-context learning, enabling it to adapt to new tasks with minimal retraining, thus improving model efficiency and effectiveness. Unlike traditional approaches that require preprocessing steps such as feature engineering, imputation, and retraining, Generative Tabular Learning (GTL) models harness their pretrained architectures to achieve competitive results on tabular data tasks. 
+
+We examine their performance against baseline TradML models—Logistic Regression, Decision Trees, Random Forests, and XGBoost—under similar constraints of limited data and features to ensure a fair evaluation.
 
 
 
